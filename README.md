@@ -1,2 +1,2 @@
 # -Virtual-Security-Incident-Response-Simulation
-This submission contains the deliverables for the Week 2 Task: Virtual Security Incident Response Simulation. The attached Word document serves as both a detailed incident response plan and a comprehensive post-incident analysis report for a simulated security breach within a controlled virtual environment.
+The methodology strictly adheres to the NIST Incident Response lifecycle framework (Preparation, Detection & Analysis, Containment, Eradication, Recovery, and Post-Incident Activity). The simulated scenario involved a web server compromise via a SQL Injection (SQLi) vulnerability
